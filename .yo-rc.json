@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "onlineGenerateApplication",
+    "packageName": "online.generate.application",
+    "packageFolder": "online/generate/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "th"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "ZTVlY2JlODcxZGZkMWRjYTEwMzI4N2VkNmJjYzk4MjJhZWE4MGJiZjc2ZWVkZWUyMTE5NjdmYmU2NDkzMmFiN2JlNGFmOGFjYTVkNTgzYjY4YTBmMDgzYzNhNmUyZTllMWMwZmQ5YjI2MjRmNDFmMTg4M2I4ODQ3OTY1OTcyOTQ=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "Elchibek",
+  "repository-name": "online-generate-application"
+}
